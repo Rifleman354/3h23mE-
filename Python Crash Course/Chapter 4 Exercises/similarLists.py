@@ -10,4 +10,4 @@ print('His middle 3 Warhammer memes are: ' + str(Friends_WH40K_Memes[3:6]))
 print('His last 3 Warhammer memes are: ' + str(Friends_WH40K_Memes[6:]))
 
 # Assigning the same lists to different prints
-
+# Different slicing methods of 2 different lists
